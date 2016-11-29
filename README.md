@@ -55,6 +55,13 @@ FIREBASE FEATURES
 ```
 SCAFFOLDING
 ```
- Download [Android Base Project](https://github.com/udacity/and-nd-firebase) or [iOS Base Project](https://github.com/udacity/ios-nd-firebase)
+
+ Download [Android Base Project](https://github.com/udacity/and-nd-firebase) or [iOS Base Project](https://github.com/udacity/ios-nd-firebase) and set up as follows:
+
+  * Download zip file from one of the above links (here we cover Android)
+  * Unzip into your local directory (creates directory and-nd-firebase... ) and rename to something simple (firecamp-friendlychat)
+  * Open it in Android Studio (as an existing project) - make sure you fix any missing dependencies.
+  * Run the emulator once to make sure the scaffolded app works
+  
 
 
