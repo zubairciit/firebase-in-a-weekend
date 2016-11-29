@@ -1,24 +1,34 @@
 # Firebase in a weekend
 
-Goals are:
+```
+GOALS
+```
  
  * understand firebase features
- * understand firebase tools & APIs
+ * underMstand firebase tools & APIs
  * build a full-fledged Firebase-driven app
  * understand how to build iOS, Android & web versions
  
- Pre-requisites are:
+```
+PRE-REQUISITES
+```
 
  * understanding of what a mobile app is
  * comfortable using command line
  * comfortable calling web / cloud APIs
 
-What you will build: Friendly Chat App
+```
+PROTOTYPE
+``` 
  * Login screen (Google/Email)
  * View messages
  * Real-time send/receive
 
-Requirements (or how Firebase plays into this)
+```
+REQUIREMENTS
+```
+
+aka "How does Firebase play into this"
 
  * Database ==> to store messages
  * File Storage ==> to store media/attachments in message
@@ -30,8 +40,11 @@ Requirements (or how Firebase plays into this)
 
 All of this is plumbing. You really want to focus on the front-end and the user experience. Can you outsource the plumbing? 
 
-Enter Firebase:
- 
+
+```
+FIREBASE FEATURES
+```
+
   * Firebase Realtime Database
   * Firebase Storage
   * Firebase Authentication
@@ -39,6 +52,9 @@ Enter Firebase:
   * Firebase Notifications
   * Firebase Remote Config (A/B testing)
 
-## Setting up Scaffold
-
+```
+SCAFFOLDING
+```
  Download [Android Base Project](https://github.com/udacity/and-nd-firebase) or [iOS Base Project](https://github.com/udacity/ios-nd-firebase)
+
+
