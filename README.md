@@ -63,5 +63,10 @@ SCAFFOLDING
   * Open it in Android Studio (as an existing project) - make sure you fix any missing dependencies.
   * Run the emulator once to make sure the scaffolded app works
   
+Now set up Firebase
+
+  * Create new project in [Firebase Console] (https://console.firebase.google.com/?pli=1) -- I used _firecamp-friendly-chat_
+  * Walk through the wizard for "Add Firebase to your Android App"
+
 
 
